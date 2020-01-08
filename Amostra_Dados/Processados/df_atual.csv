@@ -1,0 +1,852 @@
+Órgão,Grupo,Quem faz,Atribuição
+CADG,1,COMUNICAÇÃO,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+CADG,1,COMUNICAÇÃO,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+CADG,1,COMUNICAÇÃO,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CADG,1,COMUNICAÇÃO,Estimula a criação de rede de atores internos e externos
+CADG,1,CENPE,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+CADG,1,CENPE,Avalia a efetividade das políticas públicas
+CADG,1,CENPE,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+CADG,1,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+CADG,1,CENPE,Identifica problemas públicos relevantes
+CADG,1,STIC,Desenvolve sistemas a partir da análise de dados externos e internos
+CADG,1,STIC,Produz conhecimento com análise crítica
+CADG,1,STIC,Implementa programa de segurança da informação
+CADG,1,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+CADG,1,STIC,Avalia fluxos e processos
+CADG,1,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+CADG,1,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+CADG,1,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+CADG,1,STIC,Apoia os CAOs e grupos
+CADG,1,STIC,Coleta dados da atuação institucional
+CADG,1,STIC,Promove e organiza a gestão do conhecimento técnico do MPRJ
+CADG,1,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+CADG,1,GATE,Oferece consultoria técnica
+CADG,1,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+CADG,1,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+CADG,1,GATE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+CADG,1,GATE,Apoia os CAOs e grupos
+CADG,1,GATE,Coleta dados da atuação institucional
+CADG,1,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+CADG,1,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+CADG,1,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+CADG,1,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CADG,1,CADG,Elabora diagnósticos de órgãos do Ministério Público
+CADG,1,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+CADG,1,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+CADG,1,CADG,Desenvolve sistemas de tecnologia da informação de uso interno
+CADG,1,CADG,Apoia os CAOs e grupos
+CADG,1,CADG,Coleta dados da atuação institucional
+CADG,1,CADG,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CADG,1,CADG,Desenvolve sites para campanhas e casos de atuação do MPRJ
+CADG,1,INOVA,Faz experimentos
+CADG,1,INOVA,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CADG,1,INOVA,Difunde inovação e boas práticas sobre administração pública
+CADG,1,INOVA,Difunde a cultura e métodos de ideação e inovação
+CADG,1,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+CADG,1,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CADG,1,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+CADG,1,IEP,Dissemina conhecimento
+CADG,1,IEP,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CADG,1,CSI,Monitora dados relativos a presos e organizações criminosas
+CADG,1,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+CADG,1,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+CADG,1,SUBPLAN,Promove a atuação sistêmica do MPRJ
+CADG,1,SUBPLAN,Contribuição para a eleição de prioridades de atuação do MPRJ
+CADG,1,NINGUÉM,Promove e fomenta análises interdisciplinares
+CADG,1,NINGUÉM,Potencializa o impacto social do MPRJ
+CADG,1,NINGUÉM,Difunde os métodos de pesquisa científica e uso de evidências 
+CADG,2,IEP,Realiza revisões de literatura e de iniciativas de políticas públicas
+CADG,2,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+CADG,2,IEP,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+CADG,2,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+CADG,2,IEP,Dissemina conhecimento
+CADG,2,IEP,Apoia os CAOs e grupos
+CADG,2,IEP,Potencializa o impacto social do MPRJ
+CADG,2,CSI,Monitora dados relativos a presos e organizações criminosas
+CADG,2,CSI,Implementa programa e medidas de proteção de dados em poder do MPRJ
+CADG,2,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+CADG,2,CSI,Dissemina conhecimento
+CADG,2,CSI,Apoia os CAOs e grupos
+CADG,2,CSI,Potencializa o impacto social do MPRJ
+CADG,2,STIC,Implementa programa de segurança da informação
+CADG,2,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+CADG,2,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+CADG,2,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+CADG,2,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+CADG,2,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+CADG,2,STIC,Dissemina conhecimento
+CADG,2,STIC,Apoia os CAOs e grupos
+CADG,2,STIC,Potencializa o impacto social do MPRJ
+CADG,2,GATE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+CADG,2,GATE,Oferece consultoria técnica
+CADG,2,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+CADG,2,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+CADG,2,GATE,Dissemina conhecimento
+CADG,2,GATE,Apoia os CAOs e grupos
+CADG,2,GATE,Potencializa o impacto social do MPRJ
+CADG,2,INOVA,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+CADG,2,INOVA,Faz experimentos
+CADG,2,INOVA,Avalia fluxos e processos
+CADG,2,INOVA,Difunde inovação e boas práticas sobre administração pública
+CADG,2,INOVA,Contribuição para a eleição de prioridades de atuação do MPRJ
+CADG,2,INOVA,Difunde a cultura e métodos de ideação e inovação
+CADG,2,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+CADG,2,INOVA,Dissemina conhecimento
+CADG,2,INOVA,Apoia os CAOs e grupos
+CADG,2,INOVA,Potencializa o impacto social do MPRJ
+CADG,2,CADG,Elabora diagnósticos de órgãos do Ministério Público
+CADG,2,CADG,Coleta dados da atuação institucional
+CADG,2,CADG,Promove e fomenta análises interdisciplinares
+CADG,2,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+CADG,2,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CADG,2,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+CADG,2,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+CADG,2,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+CADG,2,CADG,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+CADG,2,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+CADG,2,CADG,Desenvolve sistemas a partir da análise de dados externos e internos
+CADG,2,CADG,Dissemina conhecimento
+CADG,2,CADG,Apoia os CAOs e grupos
+CADG,2,CADG,Potencializa o impacto social do MPRJ
+CADG,2,CENPE,Elabora diagnósticos de órgãos do Ministério Público
+CADG,2,CENPE,Coleta dados da atuação institucional
+CADG,2,CENPE,Promove e fomenta análises interdisciplinares
+CADG,2,CENPE,Difunde informação de interesse social a partir da coleta e análise de dados
+CADG,2,CENPE,Produz conhecimento com análise crítica
+CADG,2,CENPE,Iniciativas de políticas públicas
+CADG,2,CENPE,Avalia a efetividade das políticas públicas
+CADG,2,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+CADG,2,CENPE,Identifica problemas públicos relevantes
+CADG,2,CENPE,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CADG,2,CENPE,Dissemina conhecimento
+CADG,2,CENPE,Apoia os CAOs e grupos
+CADG,2,CENPE,Potencializa o impacto social do MPRJ
+CADG,2,NINGUÉM,Estimula a criação de rede de atores internos e externos
+CADG,2,NINGUÉM,Promove a atuação sistêmica do MPRJ
+CADG,2,NINGUÉM,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CADG,2,NINGUÉM,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CENPE,1,CSI,Implementa programa e medidas de proteção de dados em poder do MPRJ
+CENPE,1,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+CENPE,1,CSI,Monitora dados relativos a presos e organizações criminosas
+CENPE,1,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+CENPE,1,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+CENPE,1,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+CENPE,1,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+CENPE,1,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+CENPE,1,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+CENPE,1,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+CENPE,1,STIC,Implementa programa de segurança da informação
+CENPE,1,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+CENPE,1,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+CENPE,1,GATE,Oferece consultoria técnica
+CENPE,1,GATE,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CENPE,1,GATE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+CENPE,1,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CENPE,1,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+CENPE,1,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+CENPE,1,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+CENPE,1,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+CENPE,1,CADG,Desenvolve sistemas a partir da análise de dados externos e internos
+CENPE,1,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+CENPE,1,CADG,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CENPE,1,CADG,Dissemina conhecimento
+CENPE,1,CADG,Contribuição para a eleição de prioridades de atuação do MPRJ
+CENPE,1,CADG,Produz conhecimento com análise crítica
+CENPE,1,CENPE,Elabora diagnósticos de órgãos do Ministério Público
+CENPE,1,CENPE,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CENPE,1,CENPE,Desenvolve visualizações estáticas e interativas de dados processados
+CENPE,1,CENPE,Avalia a efetividade das políticas públicas
+CENPE,1,CENPE,Coleta dados da atuação institucional
+CENPE,1,CENPE,Promove e fomenta análises interdisciplinares
+CENPE,1,CENPE,Apoia os CAOs e grupos
+CENPE,1,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+CENPE,1,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+CENPE,1,CENPE,Estimula a criação de rede de atores internos e externos
+CENPE,1,CENPE,Identifica problemas públicos relevantes
+CENPE,1,CENPE,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CENPE,1,CENPE,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+CENPE,1,CENPE,Oferece consultoria técnica
+CENPE,1,CENPE,Monitora dados relativos a presos e organizações criminosas
+CENPE,1,CENPE,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CENPE,1,CENPE,Dissemina conhecimento
+CENPE,1,CENPE,Contribuição para a eleição de prioridades de atuação do MPRJ
+CENPE,1,CENPE,Produz conhecimento com análise crítica
+CENPE,1,INOVA,Elabora diagnósticos de órgãos do Ministério Público
+CENPE,1,INOVA,Avalia fluxos e processos
+CENPE,1,INOVA,Faz experimentos
+CENPE,1,INOVA,Difunde inovação e boas práticas sobre administração pública
+CENPE,1,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CENPE,1,INOVA,Difunde a cultura e métodos de ideação e inovação
+CENPE,1,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+CENPE,1,INOVA,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CENPE,1,INOVA,Dissemina conhecimento
+CENPE,1,INOVA,Contribuição para a eleição de prioridades de atuação do MPRJ
+CENPE,1,INOVA,Produz conhecimento com análise crítica
+CENPE,1,IEP,Promove e organiza a gestão do conhecimento técnico do MPRJ
+CENPE,1,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+CENPE,1,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+CENPE,1,IEP,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CENPE,1,IEP,Dissemina conhecimento
+CENPE,1,IEP,Contribuição para a eleição de prioridades de atuação do MPRJ
+CENPE,1,IEP,Produz conhecimento com análise crítica
+CENPE,1,NINGUÉM,Promove a atuação sistêmica do MPRJ
+CENPE,1,NINGUÉM,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+CENPE,1,NINGUÉM,Potencializa o impacto social do MPRJ
+CENPE,2,INOVA,Difunde inovação e boas práticas sobre administração pública
+CENPE,2,INOVA,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CENPE,2,INOVA,Faz experimentos
+CENPE,2,INOVA,Difunde a cultura e métodos de ideação e inovação
+CENPE,2,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+CENPE,2,INOVA,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CENPE,2,INOVA,Estimula a criação de rede de atores internos e externos
+CENPE,2,CENPE,Difunde inovação e boas práticas sobre administração pública
+CENPE,2,CENPE,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CENPE,2,CENPE,Avalia fluxos e processos
+CENPE,2,CENPE,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+CENPE,2,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+CENPE,2,CENPE,Promove e fomenta análises interdisciplinares
+CENPE,2,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+CENPE,2,CENPE,Identifica problemas públicos relevantes
+CENPE,2,CENPE,Produz conhecimento com análise crítica
+CENPE,2,CENPE,Desenvolve visualizações estáticas e interativas de dados processados
+CENPE,2,CENPE,Difunde informação de interesse social a partir da coleta e análise de dados
+CENPE,2,CENPE,Elabora diagnósticos de órgãos do Ministério Público
+CENPE,2,CENPE,Apoia os CAOs e grupos
+CENPE,2,CENPE,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+CENPE,2,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+CENPE,2,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+CENPE,2,CADG,Elabora diagnósticos de órgãos do Ministério Público
+CENPE,2,CADG,Apoia os CAOs e grupos
+CENPE,2,CADG,Coleta dados da atuação institucional
+CENPE,2,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+CENPE,2,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CENPE,2,CADG,Desenvolve sistemas a partir da análise de dados externos e internos
+CENPE,2,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+CENPE,2,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+CENPE,2,STIC,Desenvolve aplicações a partir da análise de dados internos e externos
+CENPE,2,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+CENPE,2,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+CENPE,2,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+CENPE,2,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+CENPE,2,STIC,Implementa programa de segurança da informação
+CENPE,2,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+CENPE,2,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+CENPE,2,GATE,Oferece consultoria técnica
+CENPE,2,GATE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+CENPE,2,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+CENPE,2,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+CENPE,2,CSI,Monitora dados relativos a presos e organizações criminosas
+CENPE,2,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+CENPE,2,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+CENPE,2,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+CENPE,2,IEP,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+CENPE,2,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+CENPE,2,IEP,Dissemina conhecimento
+CENPE,2,NINGUÉM,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CENPE,2,NINGUÉM,Interage com atores externos para difusão de conhecimento
+CENPE,2,NINGUÉM,Interage com atores externos para implementação de mudanças
+GATE,1,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+GATE,1,INOVA,Difunde a cultura e métodos de ideação e inovação
+GATE,1,INOVA,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+GATE,1,INOVA,Faz experimentos
+GATE,1,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+GATE,1,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+GATE,1,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+GATE,1,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+GATE,1,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+GATE,1,STIC,Implementa programa de segurança da informação
+GATE,1,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+GATE,1,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+GATE,1,STIC,Contribuição para a eleição de prioridades de atuação do MPRJ
+GATE,1,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+GATE,1,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+GATE,1,CSI,Monitora dados relativos a presos e organizações criminosas
+GATE,1,GATE,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+GATE,1,GATE,Apoia os CAOs e grupos
+GATE,1,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+GATE,1,GATE,Produz conhecimento com análise crítica
+GATE,1,GATE,Oferece consultoria técnica
+GATE,1,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+GATE,1,GATE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+GATE,1,GATE,Avalia a efetividade das políticas públicas
+GATE,1,GATE,Promove e fomenta análises interdisciplinares
+GATE,1,IEP,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+GATE,1,IEP,Dissemina conhecimento
+GATE,1,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+GATE,1,IEP,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+GATE,1,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+GATE,1,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+GATE,1,CENPE,Identifica problemas públicos relevantes
+GATE,1,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+GATE,1,CENPE,Produz conhecimento com análise crítica
+GATE,1,CENPE,Promove e fomenta análises interdisciplinares
+GATE,1,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+GATE,1,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+GATE,1,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+GATE,1,CADG,Coleta dados da atuação institucional
+GATE,1,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+GATE,1,CADG,Desenvolve sistemas a partir da análise de dados externos e internos
+GATE,1,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+GATE,1,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+GATE,1,CADG,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+GATE,1,CADG,Produz conhecimento com análise crítica
+GATE,1,SUBPLAN,Promove a atuação sistêmica do MPRJ
+GATE,1,SUBPLAN,Elabora diagnósticos de órgãos do Ministério Público
+GATE,1,SUBPLAN,Difunde inovação e boas práticas sobre administração pública
+GATE,1,NINGUÉM,Potencializa o impacto social do MPRJ
+GATE,1,NINGUÉM,Estimula a criação de rede de atores internos e externos
+GATE,1,NINGUÉM,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+GATE,1,NINGUÉM,Avalia fluxos e processos
+GATE,2,COMUNICAÇÃO,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+GATE,2,COMUNICAÇÃO,Potencializa o impacto social do MPRJ
+GATE,2,COMUNICAÇÃO,Apoia os CAOs e grupos
+GATE,2,NÚCLEO DE ARTICULAÇÃO INTEGRADA,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+GATE,2,NÚCLEO DE ARTICULAÇÃO INTEGRADA,Apoia os CAOs e grupos
+GATE,2,SUBPLAN,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+GATE,2,SUBPLAN,Avalia fluxos e processos
+GATE,2,SUBPLAN,Elabora diagnósticos de órgãos do Ministério Público
+GATE,2,SUBPLAN,Promove a atuação sistêmica do MPRJ
+GATE,2,SUBPLAN,Contribuição para a eleição de prioridades de atuação do MPRJ
+GATE,2,SUBPLAN,Apoia os CAOs e grupos
+GATE,2,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+GATE,2,IEP,Dissemina conhecimento
+GATE,2,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+GATE,2,IEP,Apoia os CAOs e grupos
+GATE,2,CENPE,Identifica problemas públicos relevantes
+GATE,2,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+GATE,2,CENPE,Avalia a efetividade das políticas públicas
+GATE,2,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+GATE,2,CENPE,Apoia os CAOs e grupos
+GATE,2,CENPE,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+GATE,2,CENPE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+GATE,2,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+GATE,2,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+GATE,2,CADG,Coleta dados da atuação institucional
+GATE,2,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+GATE,2,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+GATE,2,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+GATE,2,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+GATE,2,CADG,Apoia os CAOs e grupos
+GATE,2,GATE,Produz conhecimento com análise crítica
+GATE,2,GATE,Promove e fomenta análises interdisciplinares
+GATE,2,GATE,Oferece consultoria técnica
+GATE,2,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+GATE,2,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+GATE,2,GATE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+GATE,2,GATE,Apoia os CAOs e grupos
+GATE,2,GATE,Dissemina conhecimento
+GATE,2,GATE,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+GATE,2,GATE,Difunde os métodos de pesquisa científica e uso de evidências 
+GATE,2,GATE,Avalia a efetividade das políticas públicas
+GATE,2,GATE,Realiza revisões de literatura e de iniciativas de políticas públicas
+GATE,2,GATE,Difunde informação de interesse social a partir da coleta e análise de dados
+GATE,2,GATE,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+GATE,2,GATE,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+GATE,2,GATE,Desenvolve visualizações estáticas e interativas de dados processados
+GATE,2,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+GATE,2,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+GATE,2,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+GATE,2,STIC,Implementa programa de segurança da informação
+GATE,2,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+GATE,2,STIC,Desenvolve sistemas a partir da análise de dados externos e internos
+GATE,2,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+GATE,2,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+GATE,2,STIC,Apoia os CAOs e grupos
+GATE,2,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+GATE,2,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+GATE,2,INOVA,Difunde inovação e boas práticas sobre administração pública
+GATE,2,INOVA,Faz experimentos
+GATE,2,INOVA,Difunde a cultura e métodos de ideação e inovação
+GATE,2,INOVA,Apoia os CAOs e grupos
+GATE,2,CSI,Monitora dados relativos a presos e organizações criminosas
+GATE,2,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+GATE,2,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+GATE,2,CSI,Apoia os CAOs e grupos
+GATE,2,CSI,Dá suporte técnico a casos concretos de atuação do MPRJ
+GATE,2,CSI,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+GATE,2,OUVIDORIA,Potencializa o impacto social do MPRJ
+GATE,2,NINGUÉM,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+GATE,2,NINGUÉM,Estimula a criação de rede de atores internos e externos
+STIC,1,APMOD,Avalia fluxos e processos
+STIC,1,APMOD,Contribuição para a eleição de prioridades de atuação do MPRJ
+STIC,1,APMOD,Faz experimentos
+STIC,1,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+STIC,1,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+STIC,1,CADG,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+STIC,1,CADG,Produz conhecimento com análise crítica
+STIC,1,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+STIC,1,CADG,Coleta dados da atuação institucional
+STIC,1,CADG,Faz experimentos
+STIC,1,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+STIC,1,CADG,Promove e fomenta análises interdisciplinares
+STIC,1,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+STIC,1,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+STIC,1,INOVA,Difunde a cultura e métodos de ideação e inovação
+STIC,1,INOVA,Faz experimentos
+STIC,1,CSI,Monitora dados relativos a presos e organizações criminosas
+STIC,1,CSI,Faz experimentos
+STIC,1,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+STIC,1,CSI,Oferece consultoria técnica
+STIC,1,CSI,Apoia os CAOs e grupos
+STIC,1,CSI,Dá suporte técnico a casos concretos de atuação do MPRJ
+STIC,1,IEP,Difunde inovação e boas práticas sobre administração pública
+STIC,1,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+STIC,1,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+STIC,1,IEP,Dissemina conhecimento
+STIC,1,IEP,Promove e organiza a gestão do conhecimento técnico do MPRJ
+STIC,1,IEP,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+STIC,1,IEP,Faz experimentos
+STIC,1,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+STIC,1,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+STIC,1,STIC,Desenvolve sistemas a partir da análise de dados externos e internos
+STIC,1,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+STIC,1,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+STIC,1,STIC,Gerencia bancos de dados com informações sensíveis e sigilosas
+STIC,1,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+STIC,1,STIC,Desenvolve aplicações a partir da análise de dados internos e externos
+STIC,1,STIC,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+STIC,1,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+STIC,1,STIC,Implementa programa de segurança da informação
+STIC,1,STIC,Faz experimentos
+STIC,1,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+STIC,1,GATE,Oferece consultoria técnica
+STIC,1,GATE,Apoia os CAOs e grupos
+STIC,1,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+STIC,1,GATE,Faz experimentos
+STIC,1,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+STIC,1,CENPE,Identifica problemas públicos relevantes
+STIC,1,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+STIC,1,CENPE,Difunde informação de interesse social a partir da coleta e análise de dados
+STIC,1,CENPE,Avalia a efetividade das políticas públicas
+STIC,1,CENPE,Potencializa o impacto social do MPRJ
+STIC,1,CENPE,Elabora diagnósticos de órgãos do Ministério Público
+STIC,1,CENPE,Promove e fomenta análises interdisciplinares
+STIC,1,CENPE,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+STIC,1,CENPE,Faz experimentos
+STIC,1,CENPE,Coleta dados da atuação institucional
+STIC,2,APMOD,Contribuição para a eleição de prioridades de atuação do MPRJ
+STIC,2,APMOD,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+STIC,2,APMOD,Avalia fluxos e processos
+STIC,2,APMOD,Faz experimentos
+STIC,2,STIC,Avalia fluxos e processos
+STIC,2,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+STIC,2,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+STIC,2,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+STIC,2,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+STIC,2,STIC,Promove a atuação sistêmica do MPRJ
+STIC,2,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+STIC,2,STIC,Desenvolve sistemas a partir da análise de dados externos e internos
+STIC,2,STIC,Desenvolve aplicações a partir da análise de dados internos e externos
+STIC,2,STIC,Potencializa o impacto social do MPRJ
+STIC,2,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+STIC,2,STIC,Oferece consultoria técnica
+STIC,2,STIC,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+STIC,2,STIC,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+STIC,2,STIC,Faz experimentos
+STIC,2,STIC,Gerencia bancos de dados com informações sensíveis e sigilosas
+STIC,2,CADG,Desenvolve sistemas a partir da análise de dados externos e internos
+STIC,2,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+STIC,2,CADG,Potencializa o impacto social do MPRJ
+STIC,2,CADG,Desenvolve sistemas de tecnologia da informação de uso interno
+STIC,2,CADG,Oferece consultoria técnica
+STIC,2,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+STIC,2,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+STIC,2,CADG,Identifica problemas públicos relevantes
+STIC,2,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+STIC,2,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+STIC,2,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+STIC,2,CADG,Elabora diagnósticos de órgãos do Ministério Público
+STIC,2,CADG,Faz experimentos
+STIC,2,CENPE,Desenvolve visualizações estáticas e interativas de dados processados
+STIC,2,CENPE,Elabora diagnósticos de órgãos do Ministério Público
+STIC,2,CENPE,Coleta dados da atuação institucional
+STIC,2,CENPE,Avalia a efetividade das políticas públicas
+STIC,2,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+STIC,2,CENPE,Promove e fomenta análises interdisciplinares
+STIC,2,CENPE,Faz experimentos
+STIC,2,CSI,Implementa programa de segurança da informação
+STIC,2,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+STIC,2,CSI,Monitora dados relativos a presos e organizações criminosas
+STIC,2,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+STIC,2,CSI,Faz experimentos
+STIC,2,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+STIC,2,INOVA,Difunde inovação e boas práticas sobre administração pública
+STIC,2,INOVA,Estimula a criação de rede de atores internos e externos
+STIC,2,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+STIC,2,INOVA,Difunde a cultura e métodos de ideação e inovação
+STIC,2,INOVA,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+STIC,2,INOVA,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+STIC,2,INOVA,Faz experimentos
+STIC,2,GATE,Produz conhecimento com análise crítica
+STIC,2,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+STIC,2,GATE,Apoia os CAOs e grupos
+STIC,2,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+STIC,2,GATE,Faz experimentos
+STIC,2,IEP,Realiza revisões de literatura e de iniciativas de políticas públicas
+STIC,2,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+STIC,2,IEP,Dissemina conhecimento
+STIC,2,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+STIC,2,IEP,Promove e organiza a gestão do conhecimento técnico do MPRJ
+STIC,2,IEP,Faz experimentos
+STIC,2,COMUNICAÇÃO,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+STIC,2,COMUNICAÇÃO,Faz experimentos
+CSI,1,CAO,Difunde inovação e boas práticas sobre administração pública
+CSI,1,CAO,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CSI,1,INOVA,Avalia fluxos e processos
+CSI,1,INOVA,Faz experimentos
+CSI,1,INOVA,Difunde a cultura e métodos de ideação e inovação
+CSI,1,INOVA,Estimula a criação de rede de atores internos e externos
+CSI,1,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CSI,1,INOVA,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CSI,1,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+CSI,1,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+CSI,1,CADG,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CSI,1,CADG,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CSI,1,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+CSI,1,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+CSI,1,STIC,Implementa programa de segurança da informação
+CSI,1,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+CSI,1,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+CSI,1,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+CSI,1,STIC,Faz experimentos
+CSI,1,IEP,Promove e organiza a gestão do conhecimento técnico do MPRJ
+CSI,1,IEP,Dissemina conhecimento
+CSI,1,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+CSI,1,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+CSI,1,IEP,Estimula a criação de rede de atores internos e externos
+CSI,1,IEP,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CSI,1,GATE,Faz experimentos
+CSI,1,GATE,Difunde a cultura e métodos de ideação e inovação
+CSI,1,GATE,Desenvolve visualizações estáticas e interativas de dados processados
+CSI,1,CSI,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+CSI,1,CSI,Apoia os CAOs e grupos
+CSI,1,CSI,Monitora dados relativos a presos e organizações criminosas
+CSI,1,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+CSI,1,CSI,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CSI,1,CSI,Produz conhecimento com análise crítica
+CSI,1,CSI,Oferece consultoria técnica
+CSI,1,CSI,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+CSI,1,CSI,Dá suporte técnico a casos concretos de atuação do MPRJ
+CSI,1,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+CSI,1,CSI,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+CSI,1,CSI,Faz experimentos
+CSI,1,CSI,Difunde a cultura e métodos de ideação e inovação
+CSI,1,CSI,Estimula a criação de rede de atores internos e externos
+CSI,1,CSI,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CSI,1,CSI,Desenvolve visualizações estáticas e interativas de dados processados
+CSI,1,CSI,Desenvolve sistemas de tecnologia da informação de uso interno
+CSI,1,CSI,Implementa programa de segurança da informação
+CSI,1,CSI,Dissemina conhecimento
+CSI,1,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+CSI,1,CENPE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+CSI,1,CENPE,Avalia a efetividade das políticas públicas
+CSI,1,CENPE,Elabora diagnósticos de órgãos do Ministério Público
+CSI,1,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+CSI,1,CENPE,Coleta dados da atuação institucional
+CSI,1,CENPE,Identifica problemas públicos relevantes
+CSI,1,CENPE,Estimula a criação de rede de atores internos e externos
+CSI,1,CENPE,Desenvolve visualizações estáticas e interativas de dados processados
+CSI,1,NINGUÉM,Desenvolve sistemas a partir da análise de dados externos e internos
+CSI,1,NINGUÉM,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+CSI,1,NINGUÉM,Implementa programa e medidas de proteção de dados em poder do MPRJ
+CSI,1,NINGUÉM,Promove e fomenta análises interdisciplinares
+CSI,1,NINGUÉM,Contribuição para a eleição de prioridades de atuação do MPRJ
+CSI,1,NINGUÉM,Promove a atuação sistêmica do MPRJ
+CSI,1,NINGUÉM,Desenvolve aplicações a partir da análise de dados internos e externos
+CSI,1,NINGUÉM,Potencializa o impacto social do MPRJ
+CSI,1,NINGUÉM,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+CSI,2,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+CSI,2,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+CSI,2,CSI,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CSI,2,CSI,Monitora dados relativos a presos e organizações criminosas
+CSI,2,CSI,Produz conhecimento com análise crítica
+CSI,2,CSI,Apoia os CAOs e grupos
+CSI,2,CSI,Dá suporte técnico a casos concretos de atuação do MPRJ
+CSI,2,CSI,Implementa programa e medidas de proteção de dados em poder do MPRJ
+CSI,2,CSI,Dissemina conhecimento
+CSI,2,CSI,Implementa programa de segurança da informação
+CSI,2,CSI,Difunde informação de interesse social a partir da coleta e análise de dados
+CSI,2,CSI,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+CSI,2,CSI,Avalia a efetividade das políticas públicas
+CSI,2,CSI,Oferece consultoria técnica
+CSI,2,CSI,Identifica problemas públicos relevantes
+CSI,2,CSI,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+CSI,2,CSI,Promove e fomenta análises interdisciplinares
+CSI,2,CSI,Faz experimentos
+CSI,2,IEP,Elabora diagnósticos de órgãos do Ministério Público
+CSI,2,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+CSI,2,IEP,Potencializa o impacto social do MPRJ
+CSI,2,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+CSI,2,IEP,Realiza revisões de literatura e de iniciativas de políticas públicas
+CSI,2,IEP,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+CSI,2,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+CSI,2,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+CSI,2,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+CSI,2,STIC,Desenvolve sistemas a partir da análise de dados externos e internos
+CSI,2,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+CSI,2,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+CSI,2,STIC,Desenvolve aplicações a partir da análise de dados internos e externos
+CSI,2,STIC,Apoia os CAOs e grupos
+CSI,2,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+CSI,2,CENPE,Desenvolve visualizações estáticas e interativas de dados processados
+CSI,2,CENPE,Avalia a efetividade das políticas públicas
+CSI,2,CENPE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+CSI,2,CENPE,Apoia os CAOs e grupos
+CSI,2,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+CSI,2,GATE,Oferece consultoria técnica
+CSI,2,GATE,Identifica problemas públicos relevantes
+CSI,2,GATE,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+CSI,2,GATE,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CSI,2,GATE,Produz conhecimento com análise crítica
+CSI,2,GATE,Apoia os CAOs e grupos
+CSI,2,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+CSI,2,GATE,Dissemina conhecimento
+CSI,2,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+CSI,2,CADG,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+CSI,2,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+CSI,2,CADG,Coleta dados da atuação institucional
+CSI,2,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+CSI,2,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+CSI,2,INOVA,Difunde a cultura e métodos de ideação e inovação
+CSI,2,INOVA,Promove a atuação sistêmica do MPRJ
+CSI,2,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+CSI,2,INOVA,Promove e fomenta análises interdisciplinares
+CSI,2,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+CSI,2,INOVA,Faz experimentos
+CSI,2,INOVA,Difunde inovação e boas práticas sobre administração pública
+CSI,2,NINGUÉM,Estimula a criação de rede de atores internos e externos
+CSI,2,NINGUÉM,Contribuição para a eleição de prioridades de atuação do MPRJ
+IEP,1,IEP,Produz conhecimento com análise crítica
+IEP,1,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+IEP,1,IEP,Promove e organiza a gestão do conhecimento técnico do MPRJ
+IEP,1,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+IEP,1,IEP,Dissemina conhecimento
+IEP,1,IEP,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+IEP,1,IEP,Potencializa o impacto social do MPRJ
+IEP,1,IEP,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+IEP,1,IEP,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+IEP,1,IEP,Estimula a criação de rede de atores internos e externos
+IEP,1,IEP,Difunde inovação e boas práticas sobre administração pública
+IEP,1,IEP,Promove e fomenta análises interdisciplinares
+IEP,1,INOVA,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+IEP,1,INOVA,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+IEP,1,INOVA,Contribuição para a eleição de prioridades de atuação do MPRJ
+IEP,1,INOVA,Promove a atuação sistêmica do MPRJ
+IEP,1,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+IEP,1,INOVA,Avalia fluxos e processos
+IEP,1,INOVA,Difunde a cultura e métodos de ideação e inovação
+IEP,1,INOVA,Estimula a criação de rede de atores internos e externos
+IEP,1,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+IEP,1,INOVA,Difunde inovação e boas práticas sobre administração pública
+IEP,1,INOVA,Faz experimentos
+IEP,1,INOVA,Promove e fomenta análises interdisciplinares
+IEP,1,INOVA,Elabora diagnósticos de órgãos do Ministério Público
+IEP,1,CADG,Coleta dados da atuação institucional
+IEP,1,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+IEP,1,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+IEP,1,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+IEP,1,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+IEP,1,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+IEP,1,CADG,Promove e fomenta análises interdisciplinares
+IEP,1,CADG,Elabora diagnósticos de órgãos do Ministério Público
+IEP,1,CADG,Produz conhecimento com análise crítica
+IEP,1,CADG,Dissemina conhecimento
+IEP,1,CADG,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+IEP,1,CADG,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+IEP,1,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+IEP,1,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+IEP,1,CENPE,Avalia a efetividade das políticas públicas
+IEP,1,CENPE,Identifica problemas públicos relevantes
+IEP,1,CENPE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+IEP,1,CENPE,Produz conhecimento com análise crítica
+IEP,1,CENPE,Dissemina conhecimento
+IEP,1,CENPE,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+IEP,1,CENPE,Potencializa o impacto social do MPRJ
+IEP,1,CENPE,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+IEP,1,CENPE,Promove e fomenta análises interdisciplinares
+IEP,1,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+IEP,1,STIC,Implementa programa de segurança da informação
+IEP,1,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+IEP,1,STIC,Dá suporte técnico a casos concretos de atuação do MPRJ
+IEP,1,STIC,Desenvolve sistemas a partir da análise de dados externos e internos
+IEP,1,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+IEP,1,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+IEP,1,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+IEP,1,STIC,Desenvolve aplicações a partir da análise de dados internos e externos
+IEP,1,GATE,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+IEP,1,GATE,Apoia os CAOs e grupos
+IEP,1,GATE,Oferece consultoria técnica
+IEP,1,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+IEP,1,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+IEP,1,CSI,Monitora dados relativos a presos e organizações criminosas
+IEP,1,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+IEP,1,CSI,Implementa programa e medidas de proteção de dados em poder do MPRJ
+IEP,1,COMUNICAÇÃO,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+IEP,2,CENPE,Difunde informação de interesse social a partir da coleta e análise de dados
+IEP,2,CENPE,Promove e fomenta análises interdisciplinares
+IEP,2,IEP,Promove e fomenta análises interdisciplinares
+IEP,2,IEP,Estimula a criação de rede de atores internos e externos
+IEP,2,IEP,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+IEP,2,IEP,Produz conhecimento com análise crítica
+IEP,2,IEP,Dissemina conhecimento
+IEP,2,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+IEP,2,IEP,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+IEP,2,IEP,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+IEP,2,IEP,Difunde inovação e boas práticas sobre administração pública
+IEP,2,STIC,Difunde inovação e boas práticas sobre administração pública
+IEP,2,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+IEP,2,STIC,Implementa programa de segurança da informação
+IEP,2,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+IEP,2,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+IEP,2,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+IEP,2,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+IEP,2,STIC,Desenvolve sistemas a partir da análise de dados externos e internos
+IEP,2,STIC,Avalia fluxos e processos
+IEP,2,STIC,Desenvolve aplicações a partir da análise de dados internos e externos
+IEP,2,CADG,Coleta dados da atuação institucional
+IEP,2,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+IEP,2,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+IEP,2,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+IEP,2,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+IEP,2,CSI,Monitora dados relativos a presos e organizações criminosas
+IEP,2,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+IEP,2,CSI,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+IEP,2,CSI,Oferece consultoria técnica
+IEP,2,CSI,Dá suporte técnico a casos concretos de atuação do MPRJ
+IEP,2,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+IEP,2,CSI,Apoia os CAOs e grupos
+IEP,2,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+IEP,2,GATE,Oferece consultoria técnica
+IEP,2,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+IEP,2,GATE,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+IEP,2,GATE,Apoia os CAOs e grupos
+IEP,2,GATE,Promove e organiza a gestão do conhecimento técnico do MPRJ
+IEP,2,COMUNICAÇÃO,Potencializa o impacto social do MPRJ
+IEP,2,CAOS,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+IEP,2,SUBPLAN,Elabora diagnósticos de órgãos do Ministério Público
+IEP,2,SUBPLAN,Contribuição para a eleição de prioridades de atuação do MPRJ
+IEP,2,NINGUÉM,Desenvolve sites para campanhas e casos de atuação do MPRJ
+IEP,2,NINGUÉM,Avalia a efetividade das políticas públicas
+IEP,2,NINGUÉM,Realiza revisões de literatura e de iniciativas de políticas públicas
+IEP,2,NINGUÉM,Identifica problemas públicos relevantes
+IEP,2,NINGUÉM,Promove a atuação sistêmica do MPRJ
+IEP,2,NINGUÉM,Difunde os métodos de pesquisa científica e uso de evidências 
+INOVA,1,CODCOM,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+INOVA,1,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+INOVA,1,GATE,Oferece consultoria técnica
+INOVA,1,GATE,Apoia os CAOs e grupos
+INOVA,1,GATE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+INOVA,1,GATE,Faz experimentos
+INOVA,1,CSI,Dá suporte técnico a casos concretos de atuação do MPRJ
+INOVA,1,CSI,Oferece consultoria técnica
+INOVA,1,CSI,Apoia os CAOs e grupos
+INOVA,1,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+INOVA,1,CSI,Monitora dados relativos a presos e organizações criminosas
+INOVA,1,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+INOVA,1,STIC,Gerencia bancos de dados com informações sensíveis e sigilosas
+INOVA,1,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+INOVA,1,STIC,Implementa programa e medidas de proteção de dados em poder do MPRJ
+INOVA,1,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+INOVA,1,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+INOVA,1,STIC,Implementa programa de segurança da informação
+INOVA,1,STIC,Desenvolve sistemas a partir da análise de dados externos e internos
+INOVA,1,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+INOVA,1,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+INOVA,1,CADG,Coleta dados da atuação institucional
+INOVA,1,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+INOVA,1,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+INOVA,1,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+INOVA,1,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+INOVA,1,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+INOVA,1,CADG,Desenvolve sites para campanhas e casos de atuação do MPRJ
+INOVA,1,CENPE,Difunde informação de interesse social a partir da coleta e análise de dados
+INOVA,1,CENPE,Promove e fomenta análises interdisciplinares
+INOVA,1,CENPE,Avalia a efetividade das políticas públicas
+INOVA,1,CENPE,Produz conhecimento com análise crítica
+INOVA,1,CENPE,Identifica problemas públicos relevantes
+INOVA,1,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+INOVA,1,INOVA,Identifica problemas públicos relevantes
+INOVA,1,INOVA,Realiza revisões de literatura e de iniciativas de políticas públicas
+INOVA,1,INOVA,Estimula a criação de rede de atores internos e externos
+INOVA,1,INOVA,Difunde a cultura e métodos de ideação e inovação
+INOVA,1,INOVA,Elabora diagnósticos de órgãos do Ministério Público
+INOVA,1,INOVA,Avalia fluxos e processos
+INOVA,1,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+INOVA,1,INOVA,Faz experimentos
+INOVA,1,INOVA,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+INOVA,1,IEP,Promove e organiza a gestão do conhecimento técnico do MPRJ
+INOVA,1,IEP,Dissemina conhecimento
+INOVA,1,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+INOVA,1,NINGUÉM,Difunde os métodos de pesquisa científica e uso de evidências 
+INOVA,1,NINGUÉM,Difunde inovação e boas práticas sobre administração pública
+INOVA,1,NINGUÉM,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+INOVA,1,NINGUÉM,Promove a atuação sistêmica do MPRJ
+INOVA,1,NINGUÉM,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+INOVA,1,NINGUÉM,Contribuição para a eleição de prioridades de atuação do MPRJ
+INOVA,1,NINGUÉM,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+INOVA,1,NINGUÉM,Potencializa o impacto social do MPRJ
+INOVA,1,NINGUÉM,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+INOVA,2,STIC,Implementa programa de segurança da informação
+INOVA,2,STIC,Dá suporte ou faz a aquisição de produtos de TIC institucionais
+INOVA,2,STIC,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ
+INOVA,2,STIC,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ
+INOVA,2,STIC,Desenvolve sistemas de tecnologia da informação de uso interno
+INOVA,2,STIC,Desenvolve sites para campanhas e casos de atuação do MPRJ
+INOVA,2,STIC,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ
+INOVA,2,STIC,Gerencia bancos de dados com informações sensíveis e sigilosas
+INOVA,2,STIC,Avalia fluxos e processos
+INOVA,2,GATE,Apoia os CAOs e grupos
+INOVA,2,GATE,Dá suporte técnico a casos concretos de atuação do MPRJ
+INOVA,2,GATE,Coleta dados da atuação institucional
+INOVA,2,GATE,Promove e fomenta análises interdisciplinares
+INOVA,2,GATE,Desenvolve visualizações estáticas e interativas de dados processados
+INOVA,2,IEP,Promove e organiza a gestão do conhecimento técnico do MPRJ
+INOVA,2,IEP,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa
+INOVA,2,IEP,Oferece o apoio pedagógico e logístico às ações treinamento
+INOVA,2,IEP,Dissemina conhecimento
+INOVA,2,IEP,Estimula a criação de rede de atores internos e externos
+INOVA,2,CSI,Monitora dados relativos a presos e organizações criminosas
+INOVA,2,CSI,Usa ferramentas de ciências de dados para o suporte a investigações criminais
+INOVA,2,CSI,Gerencia bancos de dados com informações sensíveis e sigilosas
+INOVA,2,CSI,Dá suporte técnico a casos concretos de atuação do MPRJ
+INOVA,2,INOVA,Oferece consultoria técnica
+INOVA,2,INOVA,Avalia fluxos e processos
+INOVA,2,INOVA,Faz experimentos
+INOVA,2,INOVA,Contribuição para a eleição de prioridades de atuação do MPRJ
+INOVA,2,INOVA,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ
+INOVA,2,INOVA,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+INOVA,2,INOVA,Promove a atuação sistêmica do MPRJ
+INOVA,2,INOVA,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos
+INOVA,2,INOVA,Difunde a cultura e métodos de ideação e inovação
+INOVA,2,INOVA,Prospecta no Brasil e no mundo tendências e iniciativas de inovação
+INOVA,2,INOVA,Difunde inovação e boas práticas sobre administração pública
+INOVA,2,INOVA,Elabora diagnósticos de órgãos do Ministério Público
+INOVA,2,INOVA,Dá suporte técnico a casos concretos de atuação do MPRJ
+INOVA,2,INOVA,Promove e fomenta análises interdisciplinares
+INOVA,2,INOVA,Oferece o apoio pedagógico e logístico às ações treinamento
+INOVA,2,INOVA,Estimula a criação de rede de atores internos e externos
+INOVA,2,INOVA,Identifica problemas públicos relevantes
+INOVA,2,INOVA,Difunde os métodos de pesquisa científica e uso de evidências 
+INOVA,2,CENPE,Difunde informação de interesse social a partir da coleta e análise de dados
+INOVA,2,CENPE,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ
+INOVA,2,CENPE,Realiza revisões de literatura e de iniciativas de políticas públicas
+INOVA,2,CENPE,Produz conhecimento com análise crítica
+INOVA,2,CENPE,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ
+INOVA,2,CENPE,Identifica problemas públicos relevantes
+INOVA,2,CENPE,Difunde os métodos de pesquisa científica e uso de evidências 
+INOVA,2,CENPE,Dá suporte técnico a casos concretos de atuação do MPRJ
+INOVA,2,CENPE,Coleta dados da atuação institucional
+INOVA,2,CENPE,Promove e fomenta análises interdisciplinares
+INOVA,2,CENPE,Dissemina conhecimento
+INOVA,2,CADG,Difunde informação de interesse social a partir da coleta e análise de dados
+INOVA,2,CADG,Desenvolve sistemas a partir da análise de dados externos e internos
+INOVA,2,CADG,Desenvolve aplicações a partir da análise de dados internos e externos
+INOVA,2,CADG,"Coleta, trata, guarda e disponibiliza dados internos e externos"
+INOVA,2,CADG,Desenvolve e gerencia plataformas de divulgação de informações de interesse social
+INOVA,2,CADG,"Coleta, analisa e sistematiza dados internos e externos georreferenciados"
+INOVA,2,CADG,Desenvolve visualizações estáticas e interativas de dados processados
+INOVA,2,CADG,Dá suporte técnico a casos concretos de atuação do MPRJ
+INOVA,2,CADG,Dissemina conhecimento
+INOVA,2,CADG,"Fomenta inovação, transparência, inclusão e participação na gestão pública"
+INOVA,2,NINGUÉM,Implementa programa e medidas de proteção de dados em poder do MPRJ
+INOVA,2,NINGUÉM,Avalia a efetividade das políticas públicas

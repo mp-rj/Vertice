@@ -1,0 +1,260 @@
+,Atribuição,Quem_falou,Quem_faz,Quantidade_qf
+0,Apoia os CAOs e grupos,"['CADG', 'CADG', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'INOVA', 'INOVA']",GATE,12
+1,Avalia a efetividade das políticas públicas,['GATE'],GATE,1
+2,Avalia fluxos e processos,['CSI'],GATE,1
+3,Coleta dados da atuação institucional,"['CADG', 'GATE']",GATE,2
+4,"Coleta, analisa e sistematiza dados internos e externos georreferenciados","['GATE', 'GATE', 'CSI']",GATE,3
+5,"Coleta, trata, guarda e disponibiliza dados internos e externos","['GATE', 'GATE', 'CSI', 'CSI']",GATE,4
+6,Contribuição para a eleição de prioridades de atuação do MPRJ,"['GATE', 'CSI', 'INOVA']",GATE,3
+7,Desenvolve aplicações a partir da análise de dados internos e externos,"['GATE', 'CSI']",GATE,2
+8,Desenvolve e gerencia plataformas de divulgação de informações de interesse social,['GATE'],GATE,1
+9,Desenvolve visualizações estáticas e interativas de dados processados,"['GATE', 'CSI']",GATE,2
+10,Difunde a cultura e métodos de ideação e inovação,['CSI'],GATE,1
+11,Difunde informação de interesse social a partir da coleta e análise de dados,"['GATE', 'CSI']",GATE,2
+12,Difunde inovação e boas práticas sobre administração pública,['CSI'],GATE,1
+13,Difunde os métodos de pesquisa científica e uso de evidências ,['GATE'],GATE,1
+14,Dissemina conhecimento,"['CADG', 'CSI', 'CSI']",GATE,3
+15,Dá suporte ou faz a aquisição de produtos de TIC institucionais,['IEP'],GATE,1
+16,Dá suporte técnico a casos concretos de atuação do MPRJ,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",GATE,15
+17,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",GATE,15
+18,Estimula a criação de rede de atores internos e externos,"['CADG', 'INOVA', 'INOVA']",GATE,3
+19,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ,"['CADG', 'INOVA']",GATE,2
+20,Faz experimentos,"['CADG', 'STIC', 'STIC', 'CSI', 'INOVA', 'INOVA']",GATE,6
+21,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos,['CADG'],GATE,1
+22,"Fomenta inovação, transparência, inclusão e participação na gestão pública","['CADG', 'INOVA']",GATE,2
+23,Gerencia bancos de dados com informações sensíveis e sigilosas,"['STIC', 'CSI', 'IEP']",GATE,3
+24,Identifica problemas públicos relevantes,"['GATE', 'CSI']",GATE,2
+25,Implementa programa e medidas de proteção de dados em poder do MPRJ,['CSI'],GATE,1
+26,Monitora dados relativos a presos e organizações criminosas,"['STIC', 'CSI', 'IEP']",GATE,3
+27,Oferece consultoria técnica,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA']",GATE,14
+28,Potencializa o impacto social do MPRJ,"['CADG', 'CENPE', 'CSI', 'CENPE', 'INOVA', 'INOVA']",GATE,6
+29,Produz conhecimento com análise crítica,"['CADG', 'GATE', 'GATE', 'STIC', 'CSI', 'CSI']",GATE,6
+30,Promove a atuação sistêmica do MPRJ,"['CADG', 'INOVA']",GATE,2
+31,Promove e fomenta análises interdisciplinares,"['GATE', 'GATE', 'CSI']",GATE,3
+32,Promove e organiza a gestão do conhecimento técnico do MPRJ,"['CADG', 'CADG', 'CENPE', 'GATE', 'GATE', 'IEP', 'CENPE']",GATE,7
+33,Prospecta no Brasil e no mundo tendências e iniciativas de inovação,['CSI'],GATE,1
+34,Realiza revisões de literatura e de iniciativas de políticas públicas,['GATE'],GATE,1
+35,Usa ferramentas de ciências de dados para o suporte a investigações criminais,"['CSI', 'IEP', 'IEP']",GATE,3
+0,Apoia os CAOs e grupos,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'CSI', 'CSI', 'CENPE', 'CENPE']",CENPE,10
+1,Avalia a efetividade das políticas públicas,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CENPE,15
+2,Avalia fluxos e processos,"['CENPE', 'CENPE', 'CSI', 'IEP', 'CENPE', 'CENPE']",CENPE,6
+3,Coleta dados da atuação institucional,"['CADG', 'STIC', 'STIC', 'CSI']",CENPE,4
+4,"Coleta, analisa e sistematiza dados internos e externos georreferenciados",['GATE'],CENPE,1
+5,"Coleta, trata, guarda e disponibiliza dados internos e externos",['GATE'],CENPE,1
+6,Contribuição para a eleição de prioridades de atuação do MPRJ,"['CENPE', 'CENPE', 'GATE', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA']",CENPE,8
+7,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ,"['CADG', 'CENPE', 'CENPE', 'STIC', 'CSI', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CENPE,11
+8,Desenvolve aplicações a partir da análise de dados internos e externos,['CSI'],CENPE,1
+9,Desenvolve e gerencia plataformas de divulgação de informações de interesse social,['CADG'],CENPE,1
+10,Desenvolve sistemas a partir da análise de dados externos e internos,['CADG'],CENPE,1
+11,Desenvolve visualizações estáticas e interativas de dados processados,"['CENPE', 'STIC', 'CSI', 'CSI', 'CENPE']",CENPE,5
+12,Difunde a cultura e métodos de ideação e inovação,['IEP'],CENPE,1
+13,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ,['IEP'],CENPE,1
+14,Difunde informação de interesse social a partir da coleta e análise de dados,"['STIC', 'STIC', 'INOVA']",CENPE,3
+15,Difunde inovação e boas práticas sobre administração pública,"['CSI', 'IEP']",CENPE,2
+16,Difunde os métodos de pesquisa científica e uso de evidências ,"['CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA']",CENPE,13
+17,Dissemina conhecimento,"['CADG', 'GATE', 'IEP', 'INOVA']",CENPE,4
+18,Dá suporte técnico a casos concretos de atuação do MPRJ,['GATE'],CENPE,1
+19,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ,"['GATE', 'CSI']",CENPE,2
+20,Elabora diagnósticos de órgãos do Ministério Público,"['CADG', 'CENPE', 'STIC', 'CSI', 'IEP', 'CENPE']",CENPE,6
+21,Estimula a criação de rede de atores internos e externos,"['CADG', 'GATE', 'CSI', 'IEP', 'INOVA', 'INOVA']",CENPE,6
+22,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ,"['CADG', 'GATE', 'IEP', 'INOVA']",CENPE,4
+23,Faz experimentos,"['CADG', 'STIC', 'STIC', 'CSI', 'IEP', 'INOVA', 'INOVA']",CENPE,7
+24,Fomenta a transparência,"['CENPE', 'CENPE']",CENPE,2
+25,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos,"['CADG', 'IEP']",CENPE,2
+26,"Fomenta inovação, transparência, inclusão e participação na gestão pública","['CADG', 'IEP', 'INOVA']",CENPE,3
+27,Identifica problemas públicos relevantes,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CENPE,14
+28,Iniciativas de políticas públicas,['CADG'],CENPE,1
+29,Interage com atores externos para difusão do conhecimento,"['CENPE', 'CENPE']",CENPE,2
+30,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa,"['GATE', 'IEP', 'INOVA']",CENPE,3
+31,Medir custos,"['CENPE', 'CENPE']",CENPE,2
+32,Oferece consultoria técnica,['GATE'],CENPE,1
+33,Oferece o apoio pedagógico e logístico às ações treinamento,"['GATE', 'IEP', 'INOVA']",CENPE,3
+34,Potencializa o impacto social do MPRJ,"['CADG', 'CENPE', 'STIC', 'CSI', 'IEP', 'CENPE', 'INOVA', 'INOVA']",CENPE,8
+35,Produz conhecimento com análise crítica,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CENPE,10
+36,Promove a atuação sistêmica do MPRJ,"['CADG', 'CENPE', 'IEP', 'CENPE', 'INOVA']",CENPE,5
+37,Promove e fomenta análises interdisciplinares,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CENPE,13
+38,Promove e organiza a gestão do conhecimento técnico do MPRJ,"['GATE', 'IEP', 'INOVA']",CENPE,3
+39,Prospecta no Brasil e no mundo tendências e iniciativas de inovação,"['CSI', 'IEP']",CENPE,2
+40,Realiza revisões de literatura e de iniciativas de políticas públicas,"['CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CENPE,12
+0,Apoia os CAOs e grupos,"['CADG', 'CADG', 'CENPE', 'GATE', 'GATE', 'CSI', 'CENPE']",CADG,7
+1,Avalia a efetividade das políticas públicas,['GATE'],CADG,1
+2,Avalia fluxos e processos,['CSI'],CADG,1
+3,Coleta dados da atuação institucional,"['CADG', 'CENPE', 'GATE', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'INOVA']",CADG,9
+4,"Coleta, analisa e sistematiza dados internos e externos georreferenciados","['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CADG,16
+5,"Coleta, trata, guarda e disponibiliza dados internos e externos","['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CADG,15
+6,Contribuição para a eleição de prioridades de atuação do MPRJ,"['CENPE', 'GATE', 'CSI', 'CENPE', 'INOVA']",CADG,5
+7,Desenvolve aplicações a partir da análise de dados internos e externos,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'STIC', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CADG,12
+8,Desenvolve e gerencia plataformas de divulgação de informações de interesse social,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CADG,14
+9,Desenvolve sistemas a partir da análise de dados externos e internos,"['CADG', 'CENPE', 'CENPE', 'STIC', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA']",CADG,9
+10,Desenvolve sistemas de tecnologia da informação de uso interno,"['STIC', 'IEP', 'INOVA']",CADG,3
+11,Desenvolve sites para campanhas e casos de atuação do MPRJ,"['STIC', 'IEP', 'INOVA', 'INOVA']",CADG,4
+12,Desenvolve visualizações estáticas e interativas de dados processados,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CADG,13
+13,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ,"['CENPE', 'CENPE']",CADG,2
+14,Difunde informação de interesse social a partir da coleta e análise de dados,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'CSI', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CADG,12
+15,Difunde inovação e boas práticas sobre administração pública,['CSI'],CADG,1
+16,Difunde os métodos de pesquisa científica e uso de evidências ,['GATE'],CADG,1
+17,Dissemina conhecimento,['CADG'],CADG,1
+18,Dá suporte ou faz a aquisição de produtos de TIC institucionais,"['STIC', 'INOVA']",CADG,2
+19,Dá suporte técnico a casos concretos de atuação do MPRJ,"['GATE', 'GATE', 'IEP']",CADG,3
+20,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ,"['GATE', 'GATE']",CADG,2
+21,Elabora diagnósticos de órgãos do Ministério Público,['CADG'],CADG,1
+22,Estimula a criação de rede de atores internos e externos,"['CADG', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CADG,5
+23,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ,"['CADG', 'CSI', 'IEP', 'INOVA']",CADG,4
+24,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ,"['STIC', 'IEP', 'INOVA']",CADG,3
+25,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ,"['STIC', 'IEP', 'INOVA']",CADG,3
+26,Faz experimentos,"['CADG', 'STIC', 'STIC', 'CSI', 'INOVA', 'INOVA']",CADG,6
+27,Fomenta a transparência,"['CENPE', 'CENPE']",CADG,2
+28,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos,['CADG'],CADG,1
+29,"Fomenta inovação, transparência, inclusão e participação na gestão pública","['CADG', 'GATE', 'INOVA']",CADG,3
+30,"Fomenta transparência, inclusão e participação a gestão pública",['CADG'],CADG,1
+31,Gerencia bancos de dados com informações,['CADG'],CADG,1
+32,Gerencia bancos de dados com informações sensíveis e sigilosas,['STIC'],CADG,1
+33,Identifica problemas públicos relevantes,['GATE'],CADG,1
+34,Implementa programa de segurança da informação,"['STIC', 'IEP', 'INOVA']",CADG,3
+35,Implementa programa e medidas de proteção de dados em poder do MPRJ,"['STIC', 'CSI', 'IEP', 'INOVA']",CADG,4
+36,Oferece consultoria técnica,"['GATE', 'GATE']",CADG,2
+37,Potencializa o impacto social do MPRJ,"['CADG', 'CENPE', 'CSI', 'CENPE', 'INOVA', 'INOVA']",CADG,6
+38,Produz conhecimento com análise crítica,"['CADG', 'CENPE', 'GATE', 'GATE', 'STIC', 'IEP', 'CENPE']",CADG,7
+39,Promove a atuação sistêmica do MPRJ,"['CADG', 'CENPE', 'CENPE', 'INOVA']",CADG,4
+40,Promove e fomenta análises interdisciplinares,"['CADG', 'GATE', 'GATE', 'STIC', 'CSI']",CADG,5
+41,Promove e organiza a gestão do conhecimento técnico do MPRJ,"['GATE', 'GATE']",CADG,2
+42,Prospecta no Brasil e no mundo tendências e iniciativas de inovação,['CSI'],CADG,1
+43,Realiza revisões de literatura e de iniciativas de políticas públicas,['GATE'],CADG,1
+44,Usa ferramentas de ciências de dados para o suporte a investigações criminais,"['CADG', 'STIC']",CADG,2
+0,Apoia os CAOs e grupos,"['CADG', 'CADG', 'GATE']",STIC,3
+1,Avalia fluxos e processos,"['CSI', 'IEP']",STIC,2
+2,Coleta dados da atuação institucional,"['CADG', 'CADG', 'CENPE', 'GATE', 'STIC', 'IEP', 'CENPE']",STIC,7
+3,"Coleta, analisa e sistematiza dados internos e externos georreferenciados","['STIC', 'IEP', 'INOVA']",STIC,3
+4,"Coleta, trata, guarda e disponibiliza dados internos e externos","['STIC', 'STIC', 'CSI', 'IEP', 'INOVA']",STIC,5
+5,Contribuição para a eleição de prioridades de atuação do MPRJ,"['CSI', 'INOVA']",STIC,2
+6,Desenvolve aplicações a partir da análise de dados internos e externos,"['GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'INOVA']",STIC,8
+7,Desenvolve e gerencia plataformas de divulgação de informações de interesse social,"['GATE', 'STIC', 'STIC', 'IEP', 'INOVA']",STIC,5
+8,Desenvolve sistemas a partir da análise de dados externos e internos,"['GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'IEP', 'INOVA', 'INOVA']",STIC,9
+9,Desenvolve sistemas de tecnologia da informação de uso interno,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",STIC,16
+10,Desenvolve sites para campanhas e casos de atuação do MPRJ,"['CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA']",STIC,13
+11,Desenvolve visualizações estáticas e interativas de dados processados,"['GATE', 'STIC', 'IEP', 'INOVA']",STIC,4
+12,Difunde informação de interesse social a partir da coleta e análise de dados,"['GATE', 'IEP', 'INOVA']",STIC,3
+13,Difunde inovação e boas práticas sobre administração pública,['CSI'],STIC,1
+14,Dissemina conhecimento,['CADG'],STIC,1
+15,Dá suporte ou faz a aquisição de produtos de TIC institucionais,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",STIC,15
+16,Dá suporte técnico a casos concretos de atuação do MPRJ,['IEP'],STIC,1
+17,Elabora diagnósticos de órgãos do Ministério Público,['GATE'],STIC,1
+18,Estimula a criação de rede de atores internos e externos,"['CADG', 'INOVA', 'INOVA']",STIC,3
+19,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ,"['CADG', 'INOVA']",STIC,2
+20,Faz a gestão do parque de infraestrutura e tecnologia e telecomunicação do MPRJ,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",STIC,16
+21,Faz a gestão do portal do MPRJ e da programação visual do site do MPRJ,"['CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA']",STIC,13
+22,Faz experimentos,"['CADG', 'STIC', 'STIC', 'CSI', 'INOVA', 'INOVA']",STIC,6
+23,Fomenta a transparência,"['CENPE', 'CENPE']",STIC,2
+24,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos,['CADG'],STIC,1
+25,"Fomenta inovação, transparência, inclusão e participação na gestão pública","['CADG', 'INOVA']",STIC,2
+26,Gerencia bancos de dados com informações sensíveis e sigilosas,"['STIC', 'STIC', 'INOVA']",STIC,3
+27,Governança TI,['STIC'],STIC,1
+28,Governança de dados,['STIC'],STIC,1
+29,Implementa programa de segurança da informação,"['CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",STIC,13
+30,Implementa programa e medidas de proteção de dados em poder do MPRJ,"['CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",STIC,14
+31,Oferece consultoria técnica,"['STIC', 'CSI']",STIC,2
+32,Padronizar tecnologias/arquiteturas,['STIC'],STIC,1
+33,Potencializa o impacto social do MPRJ,"['CADG', 'CENPE', 'CSI', 'CENPE', 'INOVA', 'INOVA']",STIC,6
+34,Produz conhecimento com análise crítica,"['CADG', 'STIC']",STIC,2
+35,Promove a atuação sistêmica do MPRJ,"['CADG', 'CENPE', 'CENPE', 'INOVA']",STIC,4
+36,Promove e fomenta análises interdisciplinares,['CSI'],STIC,1
+37,Prospecta no Brasil e no mundo tendências e iniciativas de inovação,['CSI'],STIC,1
+38,Usa ferramentas de ciências de dados para o suporte a investigações criminais,['STIC'],STIC,1
+0,Apoia os CAOs e grupos,"['CADG', 'CADG', 'GATE', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'INOVA']",CSI,9
+1,Avalia a efetividade das políticas públicas,['CSI'],CSI,1
+2,Avalia fluxos e processos,['CSI'],CSI,1
+3,Coleta dados da atuação institucional,['CADG'],CSI,1
+4,"Coleta, analisa e sistematiza dados internos e externos georreferenciados","['CSI', 'CSI']",CSI,2
+5,"Coleta, trata, guarda e disponibiliza dados internos e externos","['CSI', 'CSI']",CSI,2
+6,Contribuição para a eleição de prioridades de atuação do MPRJ,"['CSI', 'INOVA']",CSI,2
+7,Desenvolve aplicações a partir da análise de dados internos e externos,['CSI'],CSI,1
+8,Desenvolve visualizações estáticas e interativas de dados processados,['CSI'],CSI,1
+9,Difunde a cultura e métodos de ideação e inovação,['CSI'],CSI,1
+10,Difunde informação de interesse social a partir da coleta e análise de dados,['CSI'],CSI,1
+11,Difunde inovação e boas práticas sobre administração pública,['CSI'],CSI,1
+12,Dissemina conhecimento,"['CADG', 'CSI', 'CSI']",CSI,3
+13,Dá suporte ou faz a aquisição de produtos de TIC institucionais,['IEP'],CSI,1
+14,Dá suporte técnico a casos concretos de atuação do MPRJ,"['STIC', 'CSI', 'CSI', 'IEP', 'INOVA']",CSI,5
+15,Dá suporte técnico e científico para temas relacionados à atividade-fim do MPRJ,"['STIC', 'IEP', 'IEP', 'INOVA']",CSI,4
+16,Estimula a criação de rede de atores internos e externos,"['CADG', 'CSI', 'INOVA', 'INOVA']",CSI,4
+17,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ,"['CADG', 'INOVA']",CSI,2
+18,Faz experimentos,"['CADG', 'STIC', 'STIC', 'CSI', 'CSI', 'INOVA', 'INOVA']",CSI,7
+19,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos,"['CADG', 'CSI']",CSI,2
+20,"Fomenta inovação, transparência, inclusão e participação na gestão pública","['CADG', 'INOVA']",CSI,2
+21,Gerencia bancos de dados com informações sensíveis e sigilosas,"['CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CSI,15
+22,Identifica problemas públicos relevantes,['CSI'],CSI,1
+23,Implementa programa de segurança da informação,"['CADG', 'STIC', 'CSI', 'INOVA']",CSI,4
+24,Implementa programa e medidas de proteção de dados em poder do MPRJ,"['CADG', 'CSI', 'CSI']",CSI,3
+25,Monitora dados relativos a presos e organizações criminosas,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CSI,16
+26,Oferece consultoria técnica,"['STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'INOVA']",CSI,6
+27,Potencializa o impacto social do MPRJ,"['CADG', 'CSI', 'INOVA', 'INOVA']",CSI,4
+28,Produz conhecimento com análise crítica,"['CADG', 'CSI', 'CSI']",CSI,3
+29,Promove a atuação sistêmica do MPRJ,"['CADG', 'INOVA']",CSI,2
+30,Promove e fomenta análises interdisciplinares,"['CSI', 'CSI']",CSI,2
+31,Prospecta no Brasil e no mundo tendências e iniciativas de inovação,['CSI'],CSI,1
+32,Usa ferramentas de ciências de dados para o suporte a investigações criminais,"['CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",CSI,14
+0,Apoia os CAOs e grupos,"['CADG', 'CADG', 'CENPE', 'GATE', 'CENPE']",IEP,5
+1,Avalia a efetividade das políticas públicas,"['GATE', 'IEP', 'IEP', 'INOVA']",IEP,4
+2,Avalia fluxos e processos,"['CSI', 'IEP']",IEP,2
+3,Coleta dados da atuação institucional,['CADG'],IEP,1
+4,Contribuição para a eleição de prioridades de atuação do MPRJ,"['CENPE', 'CSI', 'IEP', 'CENPE', 'INOVA']",IEP,5
+5,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ,"['IEP', 'INOVA']",IEP,2
+6,Desenvolve aplicações a partir da análise de dados internos e externos,['CSI'],IEP,1
+7,Difunde a cultura e métodos de ideação e inovação,['IEP'],IEP,1
+8,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ,"['CADG', 'CENPE', 'GATE', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE']",IEP,8
+9,Difunde informação de interesse social a partir da coleta e análise de dados,['IEP'],IEP,1
+10,Difunde inovação e boas práticas sobre administração pública,"['CENPE', 'CENPE', 'STIC', 'CSI', 'IEP', 'CENPE', 'CENPE', 'INOVA']",IEP,8
+11,Difunde os métodos de pesquisa científica e uso de evidências ,"['CADG', 'GATE', 'IEP', 'IEP', 'INOVA', 'INOVA']",IEP,6
+12,Dissemina conhecimento,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",IEP,15
+13,Elabora diagnósticos de órgãos do Ministério Público,"['CSI', 'IEP']",IEP,2
+14,Estimula a criação de rede de atores internos e externos,"['CADG', 'GATE', 'CSI', 'IEP', 'IEP', 'INOVA', 'INOVA']",IEP,7
+15,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ,"['CADG', 'CENPE', 'GATE', 'IEP', 'IEP', 'CENPE', 'INOVA']",IEP,7
+16,Faz experimentos,"['CADG', 'STIC', 'STIC', 'CSI', 'IEP', 'INOVA', 'INOVA']",IEP,7
+17,Fomenta a transparência,"['CENPE', 'CENPE']",IEP,2
+18,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos,"['CADG', 'IEP']",IEP,2
+19,"Fomenta inovação, transparência, inclusão e participação na gestão pública","['CADG', 'IEP', 'INOVA']",IEP,3
+20,Identifica problemas públicos relevantes,"['GATE', 'IEP', 'IEP', 'INOVA']",IEP,4
+21,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",IEP,16
+22,Oferece o apoio pedagógico e logístico às ações treinamento,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",IEP,16
+23,Potencializa o impacto social do MPRJ,"['CADG', 'CENPE', 'GATE', 'CSI', 'CSI', 'IEP', 'CENPE', 'INOVA', 'INOVA']",IEP,9
+24,Produz conhecimento com análise crítica,"['CADG', 'CENPE', 'IEP', 'IEP', 'CENPE', 'INOVA']",IEP,6
+25,Promove a atuação sistêmica do MPRJ,"['CADG', 'CENPE', 'CSI', 'IEP', 'CENPE', 'INOVA']",IEP,6
+26,Promove e fomenta análises interdisciplinares,"['CSI', 'CSI', 'IEP', 'IEP', 'INOVA']",IEP,5
+27,Promove e organiza a gestão do conhecimento técnico do MPRJ,"['CENPE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'CENPE', 'INOVA', 'INOVA']",IEP,9
+28,Prospecta no Brasil e no mundo tendências e iniciativas de inovação,"['CSI', 'IEP']",IEP,2
+29,Realiza revisões de literatura e de iniciativas de políticas públicas,"['CADG', 'CENPE', 'GATE', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'INOVA']",IEP,9
+0,Apoia os CAOs e grupos,"['CADG', 'CADG', 'CENPE', 'GATE', 'CENPE']",INOVA,5
+1,Avalia a efetividade das políticas públicas,['IEP'],INOVA,1
+2,Avalia fluxos e processos,"['CADG', 'GATE', 'CSI', 'IEP']",INOVA,4
+3,Coleta dados da atuação institucional,['CADG'],INOVA,1
+4,Contribuição para a eleição de prioridades de atuação do MPRJ,"['CADG', 'CENPE', 'GATE', 'CSI', 'IEP', 'CENPE', 'INOVA']",INOVA,7
+5,Desenha e conduz avaliações de impacto para processos e iniciativas do MPRJ,"['CADG', 'GATE', 'GATE', 'IEP', 'IEP', 'INOVA']",INOVA,6
+6,Desenvolve aplicações a partir da análise de dados internos e externos,['CSI'],INOVA,1
+7,Difunde a cultura e métodos de ideação e inovação,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",INOVA,16
+8,Difunde conhecimento sobre o funcionamento e a atuação do MPRJ,['IEP'],INOVA,1
+9,Difunde inovação e boas práticas sobre administração pública,"['CADG', 'CADG', 'GATE', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'INOVA', 'INOVA']",INOVA,10
+10,Difunde os métodos de pesquisa científica e uso de evidências ,"['IEP', 'INOVA']",INOVA,2
+11,Dissemina conhecimento,"['CADG', 'IEP', 'INOVA']",INOVA,3
+12,Elabora diagnósticos de órgãos do Ministério Público,"['GATE', 'IEP']",INOVA,2
+13,Estimula a criação de rede de atores internos e externos,"['CADG', 'CENPE', 'STIC', 'CSI', 'IEP', 'CENPE', 'INOVA', 'INOVA']",INOVA,8
+14,Estimula e apoia a contribuição de atores externos ao trabalho dos órgãos do MPRJ,"['CADG', 'STIC', 'IEP', 'INOVA', 'INOVA']",INOVA,5
+15,Faz experimentos,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",INOVA,16
+16,Fomenta a inclusão social,"['CENPE', 'CENPE']",INOVA,2
+17,Fomenta a transparência,"['CENPE', 'CENPE']",INOVA,2
+18,Fomenta e dá suporte à integração e trabalho em conjunto entre diversos órgãos,"['CADG', 'CENPE', 'CENPE', 'STIC', 'IEP', 'CENPE', 'CENPE']",INOVA,7
+19,Fomenta inovação,['CADG'],INOVA,1
+20,"Fomenta inovação, transparência, inclusão e participação na gestão pública","['CADG', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'IEP', 'IEP', 'CENPE', 'INOVA', 'INOVA']",INOVA,12
+21,Identifica problemas públicos relevantes,"['IEP', 'INOVA', 'INOVA']",INOVA,3
+22,Implementa programa e medidas de proteção de dados em poder do MPRJ,['CSI'],INOVA,1
+23,Interage com atores externos para implementação de mudanças,"['CENPE', 'CENPE']",INOVA,2
+24,Interage e compartilha conhecimento com outras instituições de ensino e pesquisa,['IEP'],INOVA,1
+25,Oferece consultoria técnica,"['CSI', 'INOVA']",INOVA,2
+26,Oferece o apoio pedagógico e logístico às ações treinamento,['IEP'],INOVA,1
+27,Planejamento estratégico,['GATE'],INOVA,1
+28,Potencializa o impacto social do MPRJ,"['CADG', 'CENPE', 'CSI', 'IEP', 'CENPE', 'INOVA', 'INOVA']",INOVA,7
+29,Produz conhecimento com análise crítica,"['CADG', 'CENPE', 'IEP', 'CENPE']",INOVA,4
+30,Promove a atuação sistêmica do MPRJ,"['CADG', 'CENPE', 'GATE', 'CSI', 'IEP', 'CENPE', 'INOVA']",INOVA,7
+31,Promove e fomenta análises interdisciplinares,"['CSI', 'CSI', 'IEP', 'INOVA']",INOVA,4
+32,Promove e organiza a gestão do conhecimento técnico do MPRJ,['IEP'],INOVA,1
+33,Prospecta no Brasil e no mundo tendências e iniciativas de inovação,"['CADG', 'CADG', 'CENPE', 'CENPE', 'GATE', 'GATE', 'STIC', 'STIC', 'CSI', 'CSI', 'IEP', 'IEP', 'CENPE', 'CENPE', 'INOVA', 'INOVA']",INOVA,16
+34,Realiza revisões de literatura e de iniciativas de políticas públicas,"['IEP', 'INOVA']",INOVA,2
