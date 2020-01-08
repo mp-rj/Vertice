@@ -1,5 +1,3 @@
- # Vértice
-
 ##  Resumo do projeto
 Em julho de 2019, o Inova foi chamado a contribuir com suas ferramentas para promover maior integração e sinergia entre órgãos internos do MPRJ que trabalham com dados e tecnologia da informação. O ano de 2019 viu o início de um novo ciclo de planejamento estratégico para o Ministério Público do Estado do Rio de Janeiro, com foco central nos valores de integração, dados e resultados. 
 

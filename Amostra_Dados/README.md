@@ -1,8 +1,15 @@
-The **Sample_Data**  directory in the project git repository is the place to store **SAMPLE** datasets which should be of small size, **NOT** the entire datasets. If your client does not allow you to store even the sample data on the github repository, if possible, store a sample dataset with all confidential fields hashed. If still not allowed, please do not store sample data here. But, please still fill in the table in each sub-directory. 
+# Dicionário de dados
 
-The small sample datasets can be used to make your data preprocessing, feature engineering, or modeling scripts runnable. It can be helpful to quickly run the scripts that process or model the data, and understand what the scripts are doing.  
+* Dados
+  * **Atual**: visão das atribuições atuais de cada órgão
+  * **Futuro**: visão para o futuro das atribuições de cada órgão
 
-In each directory, there is a markdown file, which lists all datasets in each directory. Please provide the link to the full dataset in case one wants to access the full dataset. 
+* Dicionários
+  * **Atual**: atribuições da visão atual dos órgãos
+  * **Futuro**: atribuições da visão futura dos órgãos 
 
-
-
+* Variáveis
+  * **Órgão**: variável que representa o órgão que participou da atividade.
+  * **Grupo**: grupo do órgão que participou da atividade.
+  * **Quem faz**: órgão que foi apontado por ter a atribuição.
+  * **Atribuição**: atribuição desempenhada por órgão.
